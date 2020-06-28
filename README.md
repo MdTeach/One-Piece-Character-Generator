@@ -15,6 +15,9 @@ Notebook link <a href="https://github.com/MdTeach/One-Piece-Character-Generator/
 
 <h3>Generated One Piece Characters:</h3>
 <ul>
+<li>charlotte perine</i>
+<li>matsunento</li>
+<li>ponchoto</li>
 <li>hangora devergo</li>
 <li>mottan mara</li>
 <li>sanjer</li>
